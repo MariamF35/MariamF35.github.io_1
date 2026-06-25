@@ -4,6 +4,6 @@ import tailwindcss from "@tailwindcss/vite";
 
 // https://vite.dev/config/
 export default defineConfig({
-  base: '/MariamF35.github.io/',
-  plugins: [react(), tailwindcss()],
+  base: './',
+  plugins: [react(),],
 });
